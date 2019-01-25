@@ -1,0 +1,2 @@
+# facial-keypoint-identification
+The problem statement is from Analytics vidya hackhathon. We are in the era where unlocking our mobile phones is as simple as looking at the device. Before the face is recognized as the face of owner, it is critical to perform facial keypoint detection as a part of face recognition. This problem is especially challenging when face images are taken with extreme poses, lighting, expressions, and occlusions
